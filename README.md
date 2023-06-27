@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bradhead
 - 👀 I’m interested in Identity and Access Management, Verifiable Credentials and Health care standards, FHIR, SMART, HEART, etc.
 - 🌱 I’m currently learning more about Terraform and using it to configure KC
-- 💞️ I’m looking to collaborate on a .NET FHIR Server, that is microservices and K8s deployable, and allows for external AuthZ.
 - 📫 How to reach me brad@zedwerks.com
 
 <!---
