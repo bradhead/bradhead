@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradhead
 - 👀 I’m interested in Identity and Access Management, Verifiable Credentials and Health care standards, FHIR, SMART, HEART, etc.
-- 🌱 I’m currently learning more about Terraform and using it to configure KC
+- 🌱 I’m currently learning more about Terraform and using it to configure KC, and building a provider for Smile CDR
 - 📫 How to reach me brad@zedwerks.com
 
 <!---
