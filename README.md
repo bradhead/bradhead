@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bradhead
 - 👀 I’m interested in Identity and Access Management, Verifiable Credentials and Health care standards, FHIR, SMART, HEART, etc.
 - 🌱 I’m currently creating extensions and configurations for Keycloak to support SMART on FHIR, FHIRcast and Standalone launch.
-- [Racing Resume](https://github.com/bradhead/resume/wiki/Amateur-Racing-Resume)
+- [Racing Resume](https://github.com/bradhead/wiki/Amateur-Racing-Resume)
 
 <!---
 bradhead/bradhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
